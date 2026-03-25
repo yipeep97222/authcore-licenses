@@ -1,0 +1,5 @@
+User: User_241907
+HWID: ANY
+Status: ACTIVE
+Expiry: 2027-03-25
+DATA: User_241907:ANY:ACTIVE:2027-03-25:none
