@@ -1,0 +1,5 @@
+User: User_C95BFC
+HWID: ANY
+Status: ACTIVE
+Expiry: 2027-03-25
+DATA: User_C95BFC:ANY:ACTIVE:2027-03-25:none
